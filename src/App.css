@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    height: 50%;
+    flex-direction: column;
+}
+.DateTime {
+    background-color: var(--ag-background-color, #181d1f);
+    color: white;
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
